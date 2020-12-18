@@ -13,7 +13,7 @@ int main(){
 		cin>>a[i];
 	}
 	
-	cout<<"Enter a element to search";
+	cout<<"Enter an element to search"<<endl;
 	cin>>key;
 
 	int ans=-1;
