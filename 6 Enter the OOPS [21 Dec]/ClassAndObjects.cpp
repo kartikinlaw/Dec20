@@ -32,10 +32,12 @@ int main() {
     C.name[3] = '\0';
 
 
+
+
     // C.name[4] = 'K';
     cout<<C.name<<endl;
     cout<<C1.name<<endl;
-    //C.start();
+    C.start();
     //cout<<sizeof(C)<<endl; // C is an actual object 28 bytes
     //cout<<sizeof(Car)<<endl; // It will take 28 bytes
     //Car C[100]; //Array an objects
