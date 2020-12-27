@@ -19,6 +19,7 @@ using namespace std;
 	class Robot {
 
 		protected :
+			// char hasEmotions[10] ="STFU";
 			int speedOfBrain = 100;
 			char canLie[20] = "never lies";
 			char hasFriends[10] ="No";
